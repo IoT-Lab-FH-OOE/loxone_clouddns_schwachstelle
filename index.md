@@ -5,7 +5,7 @@ Um den Loxone Miniserver aus dem Internet erreichbar zu machen, wird der Cloud D
 | **Produkt** | Loxone Miniserver Gen. 1 |
 | **Verwundbare Firmwareversionen** | Alle vor `11.1.9.3` seit dem es Loxone Cloud DNS gibt (bestätigt von Loxone; getestet mit `11.0.5.5` und `10.3.11.27`) |
 | **Gepatchte Firmwareversion** | `11.1.9.3` |
-| **CVE-Nummer** | Beantragt |
+| **CVE-ID** | [CVE-2020-27488](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27488) |
 | **Hersteller Website** | [https://www.loxone.com/dede/](https://www.loxone.com/dede/) |
 | **Gefunden im** | Juni 2020 |
 | **Gefunden von** | IoT-Lab, Fachhochschule Oberösterreich, Campus Hagenberg |
@@ -133,3 +133,4 @@ Loxone hat innerhalb der Public-Disclosure-Frist am 03.09.2020 die Firmwareversi
 |29.09.2020|v1.3|Hinzufügen des Statements von Loxone|
 |06.10.2020|v1.4|Kleine Anpassungen im Zuge der Anmerkungen von Loxone|
 |21.10.2020|v1.5|Verlinken des englischen Advisories, Ändern des CVE-Nummer-Status|
+|14.01.2021|v1.6|Hinzufügen der CVE-ID|
